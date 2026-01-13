@@ -1,0 +1,35 @@
+body {
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: blue;
+}
+
+p {
+  color: gray;
+}
+h2 {
+  margin-top: 30px;
+  color: darkgreen;
+}
+
+ul {
+  background-color: white;
+  padding: 15px;
+  width: 200px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
